@@ -14,3 +14,8 @@
 }
 
 /* Stylise the class selector */
+
+.two {
+    margin: 10px;
+    padding: 10px;
+}
